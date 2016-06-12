@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"test account Git");
+    NSLog(@"test your account Git");
     // Do any additional setup after loading the view, typically from a nib.
 }
 

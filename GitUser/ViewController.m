@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"test your own account Git hhtps");
+    NSLog(@"test your own account Git hhtps fuck off");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
